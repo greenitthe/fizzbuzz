@@ -1,4 +1,4 @@
-/**/
+/**
 //Extra credit: function that goes up to it's argument 'max' instead of just 100
 function fizzbuzz (max) {
   for (var i = 1; i <= max; i++) {
@@ -30,7 +30,7 @@ fizzbuzz(233);
 
 /**/
 
-/**
+/**/
 //For loop so we can walk through the 100 numbers
 for (var i = 1; i <= 100; i++) {
   //Temporary variable to hold the message we will log
